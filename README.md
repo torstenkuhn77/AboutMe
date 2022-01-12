@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Torsten Kuhn a native German living in Vienna, I worked 25 years for Microsoft Consulting, now I am a Freelancer
 - 👀 I’m interested in Azure, Azure IoT, ASP.NET Core, DEVOPS, C++, C#, Python, Interop, Linux, Database, Wix... 
-- 🌱 I worked a lot in the German Automotive Industry using Azure
+- 🌱 I worked most in the German Automotive Industry using Azure
 - 📫 How to reach me torstenk@hotmail.de
 
 <!---
